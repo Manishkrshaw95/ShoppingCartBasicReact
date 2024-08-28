@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Gaming Computer",
+      "price": 2999.99,
+      "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Car",
+      "price": 55000,
+      "imgUrl": "/imgs/car.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/imgs/bananas.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Book Set",
+      "price": 1400,
+      "imgUrl": "/imgs/book.jpg"
+    }
+  ]
